@@ -4,8 +4,8 @@
  
 <br><li><b><font size="45">My Status:</font></b></li>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lemmores&show_icons=true&count_private=true&hide_border=true&title_color=FF3232&icon_color=FF3232&text_color=FFFFFF&bg_color=000000" alt="Marcelo Lemos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemmores&layout=compact&hide_border=true&title_color=FF3232&text_color=FFFFFF&bg_color=000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lemmores&show_icons=true&count_private=true&hide_border=true&title_color=FF3232&icon_color=FF3232&text_color=FFFFFF&bg_color=000000" alt="Marcelo Lemos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lemmores&layout=compact&hide_border=true&title_color=FF3232&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 <br><li><b><font size="45">Social Midia:</font></b></li>
