@@ -1,5 +1,5 @@
 ***
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8B13&size=30&center=true&vCenter=true&width=1000&lines=HI+,+MY+NAME+IS+LEMINHOS!;EXQUEÇA+TUDO!!!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8B13&size=30&center=true&vCenter=true&width=1000&lines=HI+,+MY+NAME+IS+LEMOS!;EXQUEÇA+TUDO!!!;)](https://git.io/typing-svg)
 ***
  
 <br><li><b><font size="45">My Status:</font></b></li>
